@@ -10,5 +10,5 @@ Opis projektu
 
 Linki do zrealizowanych programów:
 
-1. [Alorytm 1]()
+1. [Algorytm wyznaczania liczb pierwszych](bserafin.cpp)
 2. [Alorytm 2]()
